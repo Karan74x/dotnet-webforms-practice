@@ -4,6 +4,7 @@
   <Project Path="CustomerDataBase/CustomerDataBase.csproj" Id="b37c774d-2176-49cb-8b94-bb9d96eeaa54" />
   <Project Path="GridView with DataTable Example/GridView with DataTable Example.csproj" Id="0e2ced5c-0cf7-4121-ab0d-3cf99bfff9e6" />
   <Project Path="GridViewExample/GridViewExample.csproj" Id="32394b6d-5bae-4093-b185-b978c6a7779c" />
+  <Project Path="LINQ/LINQ.csproj" Id="5d541bf7-82f5-4a17-83b1-2031970f017d" />
   <Project Path="ListBoxExample/ListBoxExample.csproj" Id="176d4993-c2f4-4caf-9aa8-ccaa8a736fb1" />
   <Project Path="Pagination/Pagination.csproj" Id="d8c827a4-23e0-4fb6-9fcc-5b4c9109fb37" />
   <Project Path="SessionStorageExample/SessionStorageExample.csproj" Id="ec25d0a5-080c-4c9a-8a92-7d8876241f99" />
