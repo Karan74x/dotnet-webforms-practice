@@ -7,6 +7,7 @@
   <Project Path="LINQ/LINQ.csproj" Id="5d541bf7-82f5-4a17-83b1-2031970f017d" />
   <Project Path="ListBoxExample/ListBoxExample.csproj" Id="176d4993-c2f4-4caf-9aa8-ccaa8a736fb1" />
   <Project Path="Pagination/Pagination.csproj" Id="d8c827a4-23e0-4fb6-9fcc-5b4c9109fb37" />
+  <Project Path="QuizArena/QuizArena.csproj" Id="51cc9b4d-793c-4465-859f-46713a794059" />
   <Project Path="SessionStorageExample/SessionStorageExample.csproj" Id="ec25d0a5-080c-4c9a-8a92-7d8876241f99" />
   <Project Path="ShoppingAndDeliveryForm/ShoppingAndDeliveryForm.csproj" Id="f1d79f9a-0025-4727-8672-d3a49119c40a" />
   <Project Path="StudentPages/StudentPages.csproj" Id="ce30e668-38ee-456e-83f3-4c070852c4fe" />
